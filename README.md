@@ -1,5 +1,7 @@
 # TiTouchImageView Module
 
+Re build to support Titanium 7.0.0 SDK
+
 Titanium native module wrapper for TouchImageView: https://github.com/MikeOrtiz/TouchImageView
 
 Do you like pinching and zooming on iOS? Wish it just worked on Android too? Here you go!
